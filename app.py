@@ -1,2 +1,1 @@
-login feature
 payment feature
